@@ -4,6 +4,14 @@ Intergraphica is a lightweight web application for creating interactive infograp
 
 It provides curated color palettes, a focused set of visual elements, and intuitive tools to build clean, visually appealing infographics without design overhead.
 
+## Design
+
+Initial editor layout:
+
+![Editor layout](design/editor-layout-v1.png)
+
+This layout represents the initial MVP editor concept.
+
 ---
 
 ## Core Concepts
@@ -40,4 +48,4 @@ Each project can be used in three modes:
 
 ## Status
 
-MVP and UX Design in progress.
+MVP in progress.
