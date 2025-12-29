@@ -8,7 +8,7 @@ It provides curated color palettes, a focused set of visual elements, and intuit
 
 Initial editor layout:
 
-![Editor layout](design/editor-layout-v1.png)
+![Editor layout](Design/editor-layout-v1.png)
 
 This layout represents the initial MVP editor concept.
 
