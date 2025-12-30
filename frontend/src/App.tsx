@@ -1,9 +1,5 @@
-function App() {
-  return (
-    <div style={{ minHeight: "100vh", background: "#f6f2e8" }}>
-      {/* Editor layout */}
-    </div>
-  );
-}
+import EditorPage from "./pages/EditorPage";
 
-export default App;
+export default function App() {
+  return <EditorPage />;
+}
